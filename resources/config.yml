@@ -1,6 +1,6 @@
 ---
 # Users are able to get only one kit per life
-one-kit-per-life: true
+one-kit-per-life: false
 
 # Users are able to get a kit if they log out even if they did not die (only works if one-kit-per-life: true)
 reset-on-logout: true
@@ -10,7 +10,7 @@ reset-on-logout: true
 permissions-mode: true
 
 # Sign text (capitals and color codes don't matter)
-sign-text: "[AdvancedKits]"
+sign-text: "[Kits]"
 
 # Kits you don't have the permission to get will be hidden from the kits list
 hide-no-perm-kits: false
